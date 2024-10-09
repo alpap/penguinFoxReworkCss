@@ -122,6 +122,10 @@
   padding-left: 0 !important;
 }
 
+#alltabs-button {
+    display: none !important;
+}
+
 /* multi tab selection */
 #tabbrowser-tabs:not([noshadowfortests]) .tabbrowser-tab:is([multiselected])
   > .tab-stack
